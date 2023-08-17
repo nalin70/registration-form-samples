@@ -1,4 +1,4 @@
-import Schooling from './Schooling'
+
 import React, {useState} from 'react';
 
 function App() {
