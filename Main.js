@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import App from './App';
-import Schooling from './Schooling'
-import Dac from './dac'
+import App from './First';
+import Schooling from './Second'
+import Dac from './Third'
 
 const Step1 = ({ onNext }) => (
   <div>
